@@ -4,11 +4,11 @@
 </script>
 
 <h1>About Page</h1>
-<a href="/about/sub/">Sub</a>
+<a href="/about/sub/123">Sub</a>
 
 <hr />
 
-<Route path="/sub">
+<Route path="/sub/:_id">
     <SubContent />
 </Route>
 
