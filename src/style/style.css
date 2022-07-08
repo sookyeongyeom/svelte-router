@@ -1,0 +1,8 @@
+.active {
+    text-decoration: underline;
+}
+
+.custom-active {
+    color: rebeccapurple !important;
+    font-weight: bold;
+}
